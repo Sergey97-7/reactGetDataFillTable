@@ -112,14 +112,13 @@ body {
 }
 .selected-user {
   position: fixed;
-  top: 10%;
+  top: 14%;
   left: 0;
   display: flex;
   flex-direction: column;
   padding: 10px;
   background-color: #656565;
   opacity: 0.8;
-  width: 380px;
   color: #ffffff;
 }
 .selected-user span {
