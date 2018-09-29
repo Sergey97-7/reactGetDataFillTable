@@ -85,7 +85,7 @@ class UsersTable extends Component {
         else {
             return (
                 <div>
-                    <table align="center" cellspacing="4" border="1" cellpadding="11" width="1000" className="UsersTable" >
+                    <table align="center" cellSpacing="4" border="1" cellPadding="11" width="1000" className="UsersTable" >
                         <thead>
                             <tr> 
                                 <th>
