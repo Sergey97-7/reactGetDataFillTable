@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Задание: https://github.com/fugr-ru/frontend-javascript-test
 
+Demo: https://Sergey97-7.github.io/reactGetDataFillTable
+
 Проект выполнял чуть больше 10 часов(саму логику). Визуальным оформлением занимался еще какое-то время.
 
 Для себя отметил следующие проблемы:
