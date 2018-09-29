@@ -96,11 +96,12 @@ body {
 .table-pages {
   list-style: none;
   display: flex;
-  justify-content: space-between;
-  width: 800px;
+  padding: 10px;
   margin: 20px auto;
+  width: 800px;
 }
 .table-pages li {
+  margin-left: 10px;
   width: 30px;
   height: 30px;
   text-align: center;
