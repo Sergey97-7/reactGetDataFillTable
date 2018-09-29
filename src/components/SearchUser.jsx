@@ -9,7 +9,6 @@ const SearchUser = ({data, updateData}) => {
 
         /* Поиск подстроки во всех колонках */
         const filter = data.filter( user => {
-            console.log(user);
             return (user.id.toString().includes(value) || user.firstName.toLowerCase().includes(value) || user.lastName.toLowerCase().includes(value) || user.email.toString().includes(value) || user.phone.toString().includes(value))
         });
 
